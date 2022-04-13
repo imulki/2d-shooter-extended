@@ -1,6 +1,6 @@
-# IF3210-2022-Unity-29
+# 2D Shooter: Extended
 
-Tugas Besar Unity, IF3210 Pengembangan Aplikasi pada Platform Khusus
+Ini adalah salinan dari Tugas Besar Unity, IF3210 Pengembangan Aplikasi pada Platform Khusus
 
 ## Deskripsi Aplikasi
 
