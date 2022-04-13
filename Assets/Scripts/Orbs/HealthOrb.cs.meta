@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/Orbs/HealthOrb.cs.meta
+guid: 4e8d2fd660016f045bf93aa017069805
+=======
+guid: b316ddac5d2d4884088e22aaa55a011a
+>>>>>>> 0448e872a45bb0a426cf4fd4d181f82e83630f2b:Assets/Scripts/Enemy/Gunner/Bullet.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

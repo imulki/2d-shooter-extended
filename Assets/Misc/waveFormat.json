@@ -1,0 +1,25 @@
+{
+    "waveFormatList": 
+    [
+        {
+            "waveWeight": 3,
+            "enemyIdxList": [0,1]
+        },
+        {
+            "waveWeight": 6,
+            "enemyIdxList": [0,1,2]
+        },
+        {
+            "waveWeight": 9,
+            "enemyIdxList": [2,3]
+        },
+        {
+            "waveWeight": 12,
+            "enemyIdxList": [0,1,4]
+        },
+        {
+            "waveWeight": 15,
+            "enemyIdxList": [0,1,2,3,4]
+        }
+    ]
+}
